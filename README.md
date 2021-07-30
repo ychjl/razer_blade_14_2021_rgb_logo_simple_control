@@ -1,0 +1,1 @@
+# razer_blade_14_2021_rgb_logo_simple_control
