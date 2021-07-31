@@ -25,8 +25,8 @@
   see the script for yourself and do some research if you're interested
   
 ## misc
-  for advanced rgb effects you may want to check out some other tools  
-  i wrote it mainly to silent the rgb keys on linux, since there hasn't been one working tool  
+  for advanced keyboard rgb effects you may want to check out [OpenRGB](https://gitlab.com/CalcProgrammer1/OpenRGB)   
+  i wrote it mainly to silent the rgb keys on linux  
   the logo seems to have only 3 basic effects  
   
   that't all, so long
